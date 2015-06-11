@@ -1,0 +1,22 @@
+.container {
+  width: 300px;
+  margin: 100px auto; }
+
+.addTweet {
+  border-bottom: 2px solid #282828;
+  padding-bottom: 25px; }
+
+.tweets {
+  margin-top: 20px; }
+  .tweets .tweet {
+    border: 2px solid #92bfbf;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    padding: 15px; }
+    .tweets .tweet span {
+      float: right;
+      cursor: pointer;
+      color: white;
+      background-color: red;
+      padding: 2px 5px;
+      border-radius: 5px; }
